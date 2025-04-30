@@ -17,6 +17,7 @@ Step 4 − Calculate the increment in x coordinate and y coordinate
 Step 5 − Plot the pixel by successfully incrementing x and y coordinates accordingly and complete the drawing of the line
 
 **Program :**
+```
  initgraph(&gd,&gm,"c:\turboc3\bgi");
 
 printf("Enter the value of x1 and y1 : ");
@@ -41,7 +42,10 @@ x=x+dx;
 y=y+dy; 
 i=i+1; 
 delay(100); 
-} 
+}
+```
+Name: Srinithi muthukumar
+Reg no: 212224240161
 **Output :**
 
 ![image](https://github.com/user-attachments/assets/ab6c481b-4657-4b5f-bb5e-c8840daeef0b)
